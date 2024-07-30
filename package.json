@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@pancakeswap-libs/sdk": "^1.0.1",
+    "@pancakeswap/sdk": "^5.8.8",
+    "dotenv": "^16.4.5",
+    "web3": "^4.11.1"
+  }
+}
